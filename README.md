@@ -1,5 +1,5 @@
-# Ruby on Rails Tutorial: первое приложение
+# Первое приложение на Ruby on Rails
 
-Это первое приложение для
+
 [*Ruby on Rails Tutorial*](http://railstutorial.org/)
  [Майкл Хартл](http://michaelhartl.com/).
